@@ -12,6 +12,18 @@ public class ClassA {
 		System.out.println("m3");
 
 	}
+	private void salem() {
+		System.out.println("Mango");
+		
+	}
+	private void Mettur() {
+		System.out.println("Dam");
+		
+	}
+	private void yercaud() {
+		System.out.println("Hills");
+		
+	}
 	
 }
 	
