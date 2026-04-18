@@ -12,6 +12,17 @@ public class ClassA {
 		System.out.println("m3");
 
 	}
-	
+	private void india() {
+		System.out.println("IND");
+		
+	}
+	private void canada() {
+		System.out.println("CAN");
+		
+	}
+	private void usa() {
+		System.out.println("USA");
+		
+	}
 }
 	
