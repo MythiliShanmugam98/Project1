@@ -24,5 +24,21 @@ public class ClassA {
 		System.out.println("USA");
 		
 	}
+	private void salem() {
+		System.out.println("Mango");
+		
+	}
+	private void Mettur() {
+		System.out.println("Dam");
+		
+	}
+	private void yercaud() {
+		System.out.println("Hills");
+		
+	}
+	
+
+	
+
 }
 	
